@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Contacts() {
   return (
-    <div className="w-[80vw] h-[300px] bg-[#282C33] flex justify-start items-center">
+    <div className="w-[80vw] h-96 bg-[#282C33] flex justify-start items-center">
       <div className="w-[80%] h-full flex justify-center items-start flex-col">
         <div className="h-8 w-1/2 flex justify-center items-center">
           <h5 className="text-2xl w-[40%]">
